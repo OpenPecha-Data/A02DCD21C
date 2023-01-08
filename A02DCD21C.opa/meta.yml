@@ -1,0 +1,22 @@
+id: A02DCD21C
+title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+type: translation
+pechas:
+- I330A1311
+- I21C1BD42
+- I87D01511
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:10:11.445402
+  last_modified_at: 2023-01-04 13:10:11.445406
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I330A1311/2383: 626A
+  I21C1BD42/3242: 626A
+  I87D01511/747D: 626A
